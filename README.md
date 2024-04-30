@@ -19,7 +19,7 @@ Senior software engineer [5.9yrs] I'm currently learning jetpack compose<br>Ask 
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MANJUNATH MULIMANI) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-mulimani/) 
 
 # » Tech Stack:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![RxJava](https://img.shields.io/badge/RxJava-%239FD2FF.svg?style=for-the-badge&logo=RxJava&logoColor=orange) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%2307405e.svg?style=for-the-badge&logo=firebase&logoColor=yellow) ![Sonarqube](https://img.shields.io/badge/sonarqube-%23aed05e.svg?style=for-the-badge&logo=sonarqube&logoColor=blue) ![Bitrise](https://img.shields.io/badge/bitrise-%237F52FF.svg?style=for-the-badge&logo=bitrise&logoColor=cyan)
